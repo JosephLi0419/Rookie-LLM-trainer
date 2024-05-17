@@ -9,7 +9,7 @@
 - lm-evaluation-harness
 
 ## quantization
-- gguf: llmam.cpp
+- gguf: llama.cpp
 - AWQ
 ## Other skills
 - Merge: mergekit
