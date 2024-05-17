@@ -19,6 +19,7 @@
   
 ## Other skills
 - Merge: mergekit
+- Count tokens
 
 ## interface:
 - Gradio
