@@ -7,6 +7,7 @@
 
 ## evaulation
 - lm-evaluation-harness
+- GPT4 judgement
 
 ## quantization
 - gguf: llama.cpp
