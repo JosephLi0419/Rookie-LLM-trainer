@@ -2,7 +2,7 @@ from sentencepiece import SentencePieceProcessor
 import json
 
 # Initialize SentencePieceProcessor with your model file
-sp = SentencePieceProcessor(model_file="/home/yabilab/Desktop/tokenizer.model") #MediaTek-Research/Breeze-7B-Instruct-v1_0 #Taiwan-LLM-7B-v2.1-chat
+sp = SentencePieceProcessor(model_file="/home/yabilab/Desktop/tokenizer.model") #改成你想要用的模型的tokenizer.model
 
 def tokenize(input_text):
     # Tokenize input_text using SentencePiece
@@ -10,7 +10,7 @@ def tokenize(input_text):
     return len(tokens)
 
 # Path to your JSON file
-json_file_path = "/home/yabilab/Desktop/LLaMA-Factory-main/data/AI_conversation.json" #你想要計算的對話檔
+json_file_path = "/home/yabilab/Desktop/LLaMA-Factory-main/data/AI_conversation.json" #改成你想要計算的對話檔
 
 
 # Load JSON data from file
