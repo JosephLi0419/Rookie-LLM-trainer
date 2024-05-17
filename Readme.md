@@ -19,7 +19,6 @@
   
 ## Other skills
 - Merge: mergekit
-- Count tokens
-
+- [Count tokens](https://github.com/JosephLi0419/Rookie-LLM-trainer/tree/main/other%20skills/count%20tokens)
 ## interface:
 - Gradio
