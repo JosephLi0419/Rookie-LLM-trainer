@@ -1,4 +1,5 @@
-# Token: 
+# Token
+### Introduction:
 - Tokens are the basic units of data processed by LLMs. In the context of text, a token can be a word, part of a word (subword), or even a character — depending on the tokenization process.
 - 在大型語言模型（LLM）中，「token」代表模型可以理解和生成的最小意義單位，是 LLM 進行處理的最小單元。
 - Tokenization是將輸入和輸出文本分割成可以由 LLM 模型處理的較小單元的過程
