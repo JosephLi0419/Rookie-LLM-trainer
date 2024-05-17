@@ -2,7 +2,7 @@ from sentencepiece import SentencePieceProcessor
 import json
 
 # Initialize SentencePieceProcessor with your model file
-sp = SentencePieceProcessor(model_file="/home/yabilab/Desktop/tokenizer.model") #改成你想要用的模型的tokenizer.model
+sp = SentencePieceProcessor(model_file="/home/yabilab/Desktop/tokenizer.model") #改成你想要用的模型的tokenizer
 
 def tokenize(input_text):
     # Tokenize input_text using SentencePiece
