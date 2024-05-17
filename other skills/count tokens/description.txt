@@ -1,3 +1,3 @@
-download the tokenizer model (according to the model you want to use )
+download the tokenizer model (according to the model you want to use)
 select the json file that you want to count tokens in.
 run token_counter.py
