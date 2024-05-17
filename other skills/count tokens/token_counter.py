@@ -1,4 +1,4 @@
-＃ pip install sentencepiece
+# pip install sentencepiece
 
 from sentencepiece import SentencePieceProcessor
 import json
