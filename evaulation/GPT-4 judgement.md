@@ -29,7 +29,7 @@ Rating: [[]].
 想要評分的模型回答的答案
 [The End of Assistant’s Answer]
 ```
-**DEMO**
+**成果展示**
 ```
 [Instruction]
 Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant
