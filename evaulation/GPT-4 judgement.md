@@ -25,7 +25,7 @@ Rating: [[]].
 [Question]
 你的問題
 [The Start of Assistant’s Answer]
-其他模型回答的答案
+想要評分的模型回答的答案
 [The End of Assistant’s Answer]
 ```
 **DEMO**
@@ -63,3 +63,24 @@ The language used is Traditional Chinese, which is a plus point as per the instr
 
 Rating: [[5]].
 ```
+以上GPT-4會使用英文評分，如果想要GPT-4以中文評分可參考一下指令：
+[Instruction]
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant
+to the user question displayed below. Your evaluation should consider factors such as the helpfulness,
+relevance, accuracy, depth, creativity, and level of detail of the response. Responses in Traditional
+Chinese are expected and are more favourable than Simplified Chinese, English, and other languages.
+Begin your evaluation by providing a short explanation using Traditional Chinese. Be as objective as possible. 
+After providing your explanation, you must rate the response on a scale of 1 to 10 by strictly following this format:
+[[rating]], for example: Rating: [[5]].
+[Question]
+{question}
+[The Start of Assistant’s Answer]
+{answer}
+[The End of Assistant’s Answer]
+
+Rating: [[]]
+[Question]
+你的問題
+[The Start of Assistant’s Answer]
+想要評分的模型回答的答案
+[The End of Assistant’s Answer]
