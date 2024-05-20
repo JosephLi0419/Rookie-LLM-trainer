@@ -7,7 +7,7 @@
 
 
 ### 需要的資料型態
-- 資料前處理需要程式處理，可以參考我寫的這篇的思路：[LLM初探: 利用繁中語言模型打造臨床問診平台](https://medium.com/@evauni419/llm%E5%88%9D%E6%8E%A2-%E5%88%A9%E7%94%A8%E7%B9%81%E4%B8%AD%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%89%93%E9%80%A0%E8%87%A8%E5%BA%8A%E5%95%8F%E8%A8%BA%E5%B9%B3%E5%8F%B0-8c5e7449d072)
+- 資料前處理需要自行處理，可以參考我寫的這篇的思路：[LLM初探: 利用繁中語言模型打造臨床問診平台](https://medium.com/@evauni419/llm%E5%88%9D%E6%8E%A2-%E5%88%A9%E7%94%A8%E7%B9%81%E4%B8%AD%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%89%93%E9%80%A0%E8%87%A8%E5%BA%8A%E5%95%8F%E8%A8%BA%E5%B9%B3%E5%8F%B0-8c5e7449d072)
 - [我的huggingface](https://huggingface.co/ChenWeiLi)上也有提供一些我處理好的資料集
 
 **alpaca**
