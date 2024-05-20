@@ -7,7 +7,7 @@
 - Chain-of-Thought (COT)
   
 ## Fine tune
-- LLama Factory
+- [LLama Factory](https://github.com/JosephLi0419/Rookie-LLM-trainer/blob/main/fine%20tune/LLama%20factory.md)
 
 ## evaulation
 - lm-evaluation-harness
