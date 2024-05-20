@@ -1,5 +1,5 @@
 # LLama Factory
-提供很直觀的UI界面，並且提供超多種訓練模型的方法
+提供很直觀的UI界面，並且提供超多種訓練模型的方法，最棒的是作者還有在更新！
 
 ### 硬體需求
 ![Screenshot from 2024-05-20 11-01-31](https://github.com/JosephLi0419/Rookie-LLM-trainer/assets/89914044/4c5afe2a-9407-4a25-a23c-28024ba2eea8)
