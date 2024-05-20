@@ -64,7 +64,7 @@ The language used is Traditional Chinese, which is a plus point as per the instr
 
 Rating: [[5]].
 ```
-以上GPT-4會使用英文評分，如果想要GPT-4以**中文評分**可參考一下指令：
+以上GPT-4會使用英文評分，如果想要GPT-4以**中文評分**可參考以下指令：
 ```
 [Instruction]
 Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant
