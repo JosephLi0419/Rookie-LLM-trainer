@@ -75,8 +75,8 @@ pip install -e .[torch,metrics] ＃安裝需要的package
 ### 成果展示
 我使用了一些醫生跟病人的對話資料（sharegpt形式）去微調繁體中文的語言模型
 
-- **User: <span style="color: orange;">doctor</span>**
-- **Chatbot: <span style="color: gray;">patient</span>**
+- User: <span style="color: orange;">doctor</span>
+- Chatbot: <span style="color: gray;">patient</span>
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65c07d1b2357c1bded7a92fa/Tp6ZKsGX1f2Qs5FLMFL51.png)
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65c07d1b2357c1bded7a92fa/59A_3WFYl-h34g8XU1XGG.png)
 
