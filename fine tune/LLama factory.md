@@ -48,6 +48,7 @@
 ![Screenshot from 2024-05-20 11-12-06](https://github.com/JosephLi0419/Rookie-LLM-trainer/assets/89914044/b5ad8942-2a17-410c-a4c7-35538ed8e00e)
 
 ### 使用教學
+我的系統：ubuntu (linux)
 ```
 git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git ＃或者直接到github下載
 cd LLaMA-Factory
