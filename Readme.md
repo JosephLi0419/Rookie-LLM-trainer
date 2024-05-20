@@ -9,16 +9,16 @@
 ## Fine tune
 - [LLama Factory](https://github.com/JosephLi0419/Rookie-LLM-trainer/blob/main/fine%20tune/LLama%20factory.md)
 
-## evaulation
+## Evaulation
 - lm-evaluation-harness
 - [GPT4 judgement](https://github.com/JosephLi0419/Rookie-LLM-trainer/blob/main/evaulation/GPT-4%20judgement.md)
 
-## quantization
+## Quantization
 - gguf: llama.cpp
 - AWQ
   
 ## Other skills
 - Merge: mergekit
 - [Count tokens](https://github.com/JosephLi0419/Rookie-LLM-trainer/tree/main/other%20skills/count%20tokens)
-## interface:
+## Interface:
 - Gradio
