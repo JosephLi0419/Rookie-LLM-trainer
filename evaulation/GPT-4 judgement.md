@@ -53,9 +53,12 @@ Rating: [[]].
 ```
 GPT-4評分
 ```
-The assistant's response is accurate in that it correctly identifies colon cancer as a type of cancer that involves the abnormal growth of cells in the colon.
-However, the response lacks depth and detail. It doesn't provide any information about the symptoms, risk factors, prevention, or treatment of colon cancer
-, all of which would be relevant to someone asking this question. The response is also not particularly creative, simply providing a very basic definition of the disease.
+The assistant's response is accurate in that it correctly identifies colon cancer as
+a type of cancer that involves the abnormal growth of cells in the colon.
+However, the response lacks depth and detail. It doesn't provide any information about the symptoms,
+risk factors, prevention, or treatment of colon cancer,
+all of which would be relevant to someone asking this question.
+The response is also not particularly creative, simply providing a very basic definition of the disease.
 The language used is Traditional Chinese, which is a plus point as per the instruction.
 
 Rating: [[5]].
