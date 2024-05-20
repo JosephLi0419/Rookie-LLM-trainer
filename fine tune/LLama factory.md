@@ -25,6 +25,17 @@
   }
 ]
 ```
+**alpaca (DPO)**
+```json
+{
+  "instruction": "用户指令",
+  "input": "用户输入",
+  "output": [
+    "优质回答",
+    "劣质回答"
+  ]
+}
+```
 **sharegpt**
 ```json
 [
