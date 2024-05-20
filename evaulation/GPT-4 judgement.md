@@ -1,5 +1,6 @@
 # GPT4 judgement
-顧名思義，就是利用目前最先進的語言模型GPT-4當評分員，來評估其他模型的回答
+- 顧名思義，就是利用目前最先進的語言模型GPT-4當評分員，來評估其他模型的回答
+- 參考自：[Breeze-7B Technical Report](https://arxiv.org/pdf/2403.02712)
 
 ### 使用方法
 利用gpt的api或是直接到chatgpt的界面來評分，使用以下指令：
