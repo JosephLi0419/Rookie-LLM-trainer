@@ -11,7 +11,7 @@
 
 ## evaulation
 - lm-evaluation-harness
-- GPT4 judgement
+- [GPT4 judgement](https://github.com/JosephLi0419/Rookie-LLM-trainer/blob/main/evaulation/GPT-4%20judgement.md)
 
 ## quantization
 - gguf: llama.cpp
