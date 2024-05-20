@@ -1,5 +1,5 @@
 # LLama Factory
-提供很直觀的UI界面，並且提供超多種訓練模型的方法，最棒的是作者還有在維護專案！
+提供很直觀的UI界面，並且提供超多種訓練模型的方法，最棒的是作者還有在維護專案！</br>
 專案連接： [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main)
 
 ### 硬體需求
