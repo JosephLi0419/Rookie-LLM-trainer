@@ -69,7 +69,7 @@ conda activate llama_factory-main
 pip install -e .[torch,metrics] ＃安裝需要的package
 ```
 ### 微調結果展示
-- 正常的微調結果loss會在一開始向下，到一定程度後上下跳動
+正常的微調結果loss會在一開始向下，到一定程度後上下跳動
 ![image](https://github.com/JosephLi0419/Rookie-LLM-trainer/assets/89914044/f77b05b1-9f89-4fab-be4d-399b7bd30c14)
 
 ### 成果展示
